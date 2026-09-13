@@ -1,6 +1,6 @@
 # Multi-Area Network Infrastructure Project
 
-A large-scale enterprise network built in Cisco Packet Tracer, covering multi-area OSPF routing, VTP-managed VLANs, VLSM-based IP addressing, and route summarization. Built as part of a Networking Infrastructure module (scored 95%).
+A large-scale enterprise network built in Cisco Packet Tracer, covering multi-area OSPF routing, VTP-managed VLANs, VLSM-based IP addressing, and route summarization. Built as part of a Networking Infrastructure module (graded 95%).
 
 ## Overview
 
